@@ -13,4 +13,5 @@ int main(void)
             min = value;
     }
     printf("%d\n%d", min, max);
+    return 0;
 }

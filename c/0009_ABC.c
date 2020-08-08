@@ -19,4 +19,5 @@ int main(void)
     }
     for (int i=0; i<3; i++)
         printf("%hu ", val[ABC[i]-'A']);
+    return 0;
 }

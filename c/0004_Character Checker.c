@@ -25,4 +25,5 @@ int main(void)
     {
         printf("All Capital Letter");
     }
+    return 0;
 }

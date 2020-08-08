@@ -22,4 +22,6 @@ int main(void)
         printf("D");
     else if (sum>=0 && sum<50)
         printf("F");
+
+    return 0;
 }

@@ -32,7 +32,7 @@ int main(void)
             printf("%d", i+1);
             break;
         }
-
+    return 0;
 }
 
 // Swap function
